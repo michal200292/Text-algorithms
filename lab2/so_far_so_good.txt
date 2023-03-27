@@ -1,0 +1,92 @@
+class Node:
+    def __init__(self, index, weight, character, external):
+        self.index = index
+        self.weight = weight
+        self.character = character
+        self.external = external
+        self.left = None
+        self.right = None
+        self.parent = None
+
+
+def get_16_bit(x):
+    code = ord(x)
+    mask = 1 << 15
+    bit_rep = ""
+    for _ in range(16):
+        bit_rep += "1" if mask & code else "0"
+        mask >>= 1
+    return bit_rep
+
+
+def decode_16_bit(code):
+    number = 0
+    # print(code)
+    for x in code:
+        number = number*2 + (0 if x == '0' else 1)
+    return chr(number)
+
+
+class Tree:
+    def __init__(self):
+        self.root = Node(1000, 0, "NYT", True)
+        self.NYT = self.root
+        self.leaves = {}
+        self.free_index = 999
+
+    def get_leaf_code(self, node):
+        code = []
+        while node != self.root:
+            code.append("0" if node == node.parent.left else "1")
+            node = node.parent
+        return "".join(code)[::-1]
+
+    def add_new_node(self, char):
+        right_child = Node(self.free_index, 1, char, True)
+        self.free_index -= 1
+        left_child = Node(self.free_index, 0, "NYT", True)
+        self.free_index -= 1
+
+        internal = self.NYT
+        self.NYT = left_child
+
+        internal.weight = 1
+        internal.character = ""
+        internal.external = False
+        internal.left = left_child
+        internal.right = right_child
+
+        right_child.parent = internal
+        left_child.parent = internal
+
+        self.leaves[char] = right_child
+
+    def encode_text(self, text):
+        encoded = []
+        for c in text:
+            if c not in self.leaves:
+                encoded.append(self.get_leaf_code(self.NYT))
+                encoded.append(get_16_bit(c))
+                self.add_new_node(c)
+            else:
+                encoded.append(self.get_leaf_code(self.leaves[c]))
+        return "".join(encoded)
+
+
+    def decode_text(self, text):
+        decoded = []
+        ind = 0
+        while ind < len(text):
+            ptr = self.root
+            while not ptr.external:
+                ptr = ptr.left if text[ind] == '0' else ptr.right
+                ind += 1
+
+            if ptr == self.NYT:
+                new_char = decode_16_bit(text[ind:ind+16])
+                decoded.append(new_char)
+                self.add_new_node(new_char)
+                ind += 16
+            else:
+                decoded.append(ptr.character)
+        return "".join(decoded)

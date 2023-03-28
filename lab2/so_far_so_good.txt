@@ -1,4 +1,4 @@
-class Node:
+class AdaptiveNode:
     def __init__(self, index, weight, character, external):
         self.index = index
         self.weight = weight
@@ -9,30 +9,38 @@ class Node:
         self.parent = None
 
 
-def get_16_bit(x):
-    code = ord(x)
-    mask = 1 << 15
-    bit_rep = ""
-    for _ in range(16):
-        bit_rep += "1" if mask & code else "0"
-        mask >>= 1
-    return bit_rep
+def interchange(node, change):
+    if change != node:
+        change.index, node.index = node.index, change.index
+        parent_change, parent_node = change.parent, node.parent
+        if parent_change.left == change:
+            if parent_node.left == node:
+                parent_change.left, parent_node.left = node, change
+            else:
+                parent_change.left, parent_node.right = node, change
+        else:
+            if parent_node.left == node:
+                parent_change.right, parent_node.left = node, change
+            else:
+                parent_change.right, parent_node.right = node, change
+        node.parent, change.parent = parent_change, parent_node
 
 
-def decode_16_bit(code):
-    number = 0
-    # print(code)
-    for x in code:
-        number = number*2 + (0 if x == '0' else 1)
-    return chr(number)
+def update_weight(node, node_dict):
+    node_dict[node.weight].remove(node)
+    if node.weight + 1 not in node_dict:
+        node_dict[node.weight + 1] = set()
+    node_dict[node.weight + 1].add(node)
 
 
-class Tree:
+class AdaptiveHuffman:
     def __init__(self):
-        self.root = Node(1000, 0, "NYT", True)
+        self.root = AdaptiveNode(1000, 0, "NYT", True)
         self.NYT = self.root
-        self.leaves = {}
         self.free_index = 999
+        self.leaves = {}
+        self.node_weights = {1:set()}
+        self.leaf_weights = {1:set()}
 
     def get_leaf_code(self, node):
         code = []
@@ -42,13 +50,12 @@ class Tree:
         return "".join(code)[::-1]
 
     def add_new_node(self, char):
-        right_child = Node(self.free_index, 1, char, True)
+        right_child = AdaptiveNode(self.free_index, 1, char, True)
         self.free_index -= 1
-        left_child = Node(self.free_index, 0, "NYT", True)
+        left_child = AdaptiveNode(self.free_index, 0, "NYT", True)
         self.free_index -= 1
 
-        internal = self.NYT
-        self.NYT = left_child
+        internal, self.NYT = self.NYT, left_child
 
         internal.weight = 1
         internal.character = ""
@@ -60,17 +67,42 @@ class Tree:
         left_child.parent = internal
 
         self.leaves[char] = right_child
+        self.node_weights[1].add(right_child)
+        if internal != self.root:
+            self.node_weights[1].add(internal)
+
+        self.leaf_weights[1].add(right_child)
+        self.update(internal)
+
+    def update(self, node):
+        while node != self.root:
+            if node.parent.left == self.NYT:
+                change = max(self.leaf_weights[node.weight], key=lambda item: item.index)
+                interchange(node, change)
+            else:
+                change = max(self.node_weights[node.weight], key=lambda item: item.index)
+                interchange(node, change)
+
+            if node.external:
+                update_weight(node, self.leaf_weights)
+            update_weight(node, self.node_weights)
+            node.weight += 1
+            node = node.parent
+
+        self.root.weight += 1
 
     def encode_text(self, text):
         encoded = []
         for c in text:
             if c not in self.leaves:
                 encoded.append(self.get_leaf_code(self.NYT))
-                encoded.append(get_16_bit(c))
+                encoded.append(int_to_string(ord(c), 16))
                 self.add_new_node(c)
             else:
                 encoded.append(self.get_leaf_code(self.leaves[c]))
-        return "".join(encoded)
+                self.update(self.leaves[c])
+
+        return add_last_bits("".join(encoded))
 
 
     def decode_text(self, text):
@@ -83,10 +115,11 @@ class Tree:
                 ind += 1
 
             if ptr == self.NYT:
-                new_char = decode_16_bit(text[ind:ind+16])
+                new_char = chr(string_to_int(text[ind:ind+16]))
                 decoded.append(new_char)
                 self.add_new_node(new_char)
                 ind += 16
             else:
                 decoded.append(ptr.character)
+                self.update(ptr)
         return "".join(decoded)

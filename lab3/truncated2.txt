@@ -1,50 +1,50 @@
 WilliamShakespeare
 
 RomeoiJulia
-tłum.JózefPaszkowski
+tłum.Józef
 
 ISBN978-83-288-2903-9
 
 
 
-:
- *ESKALUS—książępanującywWeronie*PARYS—młodyWeroneńczykszlachetnegorodu,krewnyksięcia
+OSOBY:
+ *ESKALUS—książępanującywWeronie
+ *PARYS—młodyWeroneńczykszlachetnegorodu,krewnyksięcia
  *MONTEKI,KAPULET—naczelnicydwóchdomównieprzyjaznychsobie
  *STARZEC—stryjecznybratKapuleta
  *ROMEO—synMontekiego
- *MERKUCJO—krewny
+ MERKUCJOkrewnyksięcia
  *BENWOLIO—synowiecMontekiego
  *TYBALT—krewnyPaniKapulet
  *LAURENTY—ojciecfranciszkanin
  *JAN—bratztegożzgromadzenia
- *BALTAZAR—służącyRomea
+ BALTAZAR—służącyRomea
  *SAMSON,GRZEGORZ—słudzyKapuleta
- *—służącyMontekiego
+ *ABRAHAM—służącyMontekiego
  *APTEKARZ
- *TRZECHMUZYKANTÓW
- *PAŹPARYSA
- *PIOTR
+ *TRZECHMUZYKANTÓW*PAŹPARYSA
+ *
  *DOWÓDCAWARTY
  *PANIMONTEKI—małżonkaMontekiego
  *PANIKAPULET—małżonkaKapuleta
  *JULIA—córkaKapuletów
- MARTA—mamkaJulii
- *Obywateleweroneńscy,różneosobypłciobojej,liczącysiędoprzyjaciółobudomów,maski,strażwojskowaiinneosoby.
+ *MARTA—mamkaJulii
+ *Obywatele,różneosobypłciobojej,liczącysiędoprzyjaciółobudomów,maski,strażwojskowaiinneosoby.
 
 
 
 
-RzeczodbywasięprzezwiększączęśćsztukiwWeronie,przezczęśćpiątegoaktuMantui.
+RzeczodbywasięprzezwiększączęśćsztukiwWeronie,przezczęśćpiątegoaktuwMantui.
 
 
 
 PROLOG
 
-PrzełożyłKasprowicz
+PrzełożyłJanKasprowicz
 
 Dwarody,zacnejednakoisławne—
 Tam,gdziesięrzecztarozgrywa,wWeronie,
-Donowejzbrodnipchajązłości,
+Donowejzbrodnipchajązłościdawne,
 Plamiącszlachetnąkrwiąszlachetnedłonie
 
 Złontychdwuwrogówwzięłobowiemżycie,
@@ -53,12 +53,12 @@ Popełnymprzygódnieszczęśliwychbycie
 Śmierćichstłumiłarodzicielskieboje.
 
 Tejichmiłościprzebiegzbytbolesny
-jaksięojcównienawiśćniezmienia,
+Ijaksięojcównienawiśćniezmienia,
 Ażjązakończydziecizgonprzedwczesny,
 Dwugodzinnegotreściąprzedstawienia,
 
-Któreotoczciecierpliwymiwzględy
-Jestwnimcozłego,usuniembłędy…
+Któreotoczciecierpliwymiwzględy,
+Jestwnimcozłego,myusuniembłędy…
 
 
 
@@ -69,7 +69,7 @@ AKTPIERWSZY
 
 SCENAPIERWSZA
 
-/Plac.WchodząSamsoniGrzegorzuzbrojeniwtarczeimiecze./
+/Placpubliczny.WchodząSamsoniGrzegorzuzbrojeniwtarczeimiecze./
 
 
 SAMSON
@@ -79,17 +79,15 @@ Dalipan,Grzegorzu,niebędziemdarlipierza.
 
 GRZEGORZ
 
-Masięrozumieć,bobyśmybylizdziercami.
+Masię,bobyśmybylizdziercami.
 
 
-SAMSON
-
-Alebędziemydarlikoty,jakznamizadrą.
+SAMSONAlebędziemydarlikoty,jakznamizadrą.
 
 
 GRZEGORZ
 
-Ktozechcezadrzećznamibędziemusiałzadrżeć.
+Ktozechcez,będziemusiałzadrżeć
 
 
 SAMSON
@@ -99,27 +97,27 @@ Mamzwyczajdrapaćzaraz,jakmięktorozrucha.
 
 GRZEGORZ
 
-Tak,aleniezarazzwykłeśsięrozruchać.
-
-
-
-
-TepsyzdomuMontekichmięmogąbardzołatwo.
-
-
-GRZEGORZ
-
-Rozruchaćsiętyleznaczycoruszyćsięzmiejsca;byćwalecznymtostaćnieporuszenie:pojmuję,żeskutkiemrozruchaniasiętwegobędzie-drapnięcie.
+,aleniezarazzwykłeśsiędaćrozruchać.
 
 
 SAMSON
 
-TepsyzdomuMontekichrozruchaćmięmogątylkodostanianamiejscu.Będęjakmurdlakażdegomężczyznyikażdejkobietyztegodomu.
+TepsyzdomuMontekichrozruchaćmięmogąbardzołatwo.
 
 
 GRZEGORZ
 
-Towłaśniepokazujetwojąsłabąstronę;murdlaniestrasznyitylkosłabigosiętrzymają.
+Rozruchaćsiętyleznaczycoruszyćsięzmiejsca;byćjeststaćnieporuszenie:pojmujęwięc,żeskutkiemrozruchaniasiętwegobędzie-drapnięcie.
+
+
+SAMSON
+
+TepsyzdomuMontekichrozruchaćmięmogątylkodostanianamiejscu.jakmurdlakażdegomężczyznyikażdejkobietyztegodomu.
+
+
+GRZEGORZ
+
+Towłaśniepokazujetwojąsłabąstronę;murdlanikogoniestrasznyitylkosłabigosiętrzymają.
 
 
 SAMSON
@@ -129,10 +127,10 @@ Prawda,dlategotokobiety,jakonajsłabsze,tuląsięzawszedomuru.Jateżodtrącęodm
 
 GRZEGORZ
 
-Spórjesttylkomiędzynaszymipanamiimiędzynami,ichludźmi.
+Spórjesttylkomiędzynaszymiimiędzynami,ichludźmi.
 
 
-
+SAMSON
 
 Mniejszamioto,będęnieubłagany.Pobiwszyludzi,wywręwściekłośćnakobietach:rzeźmiędzynimisprawię.
 
@@ -144,19 +142,16 @@ Rzeźkobietchceszprzedsiębrać?
 
 SAMSON
 
-Nieinaczej:wtłoczęmieczwkażdąpokolei.Wiadomo,żedolwówliczę.
+Nieinaczej:wtłoczęmieczwkażdąpokolei.Wiadomo,żesiędolwówliczę.
 
 
 GRZEGORZ
 
-Tymlepiej,żesięliczyszdozwierząt;gdybyśsięliczyłdoryb,tobyłbyśpewniesztokfiszem.Weźnosięzainstrument,bootonadchodzidwóchdomownikówMontekiego.
+Tymlepiej,żesięliczyszdozwierząt;bogdybyśliczyłdoryb,tobyłbyśpewniesztokfiszem.Weźnosięzainstrument,bootonadchodzidwóchdomownikówMontekiego.
 
-/WchodząAbrahamiBaltazar./
+/WchodząAbrahamiBaltazar./SAMSON
 
-
-SAMSON
-
-Mójgiwerjużdobyty:zaczepich,jastanęztyłu.
+giwerjużdobyty:zaczepich,jastanęztyłu.
 
 
 GRZEGORZ
@@ -166,12 +161,12 @@ Gwolidrapania?
 
 SAMSON
 
-Niesię.
+Niebójsię.
 
 
 GRZEGORZ
 
-Jabymsięmiałztwojejprzyczyny!
+Jabymsięmiałbaćztwojejprzyczyny!
 
 
 SAMSON
@@ -181,12 +176,12 @@ Miejmyprawozasobą,niechzaczną.
 
 GRZEGORZ
 
-Marsaimnastawięprzechodząc;niechgosobie,jakchcą,tłumaczą.
+Marsaimnastawięprzechodząc;niechgosobiejakchcą,tłumaczą.
 
 
 SAMSON
 
-jakchcą,alejakśmią.Jaimgębęwykrzywię;im,jeślitościerpią.
+Niejak,alejakśmią.Jaimgębęwykrzywię;hańbaim,jeślitościerpią.
 
 
 ABRAHAM
@@ -199,7 +194,7 @@ SAMSON
 Nieinaczej,skrzywiłemsię.
 
 
-
+ABRAHAM
 
 Czynanassięskrzywiłeś,mościpanie?
 
@@ -235,7 +230,7 @@ Zaczepki?nie.
 
 SAMSON
 
-JeżelijejszukasztojestemnawaścineusługiMójpantakdobryjakiwasz.
+Jeżelijejszukasz,tojestemwaścineusługi.Mójpantakdobryjakiwasz.
 
 
 ABRAHAM
@@ -247,7 +242,7 @@ SAMSON
 
 Niechitakbędzie.
 
-/Benwolioukazujesięgłębi./
+/Benwoliosięwgłębi./
 
 
 GRZEGORZ
@@ -259,14 +254,15 @@ Powiedz:lepszy.Otonadchodzijedenzkrewnychmegopana.
 
 SAMSON
 
-Nieinaczej;lepszy.ABRAHAM
+Nieinaczej;lepszy.
+
+
+ABRAHAM
 
 Kłamiesz.
 
 
-SAMSON
-
-Dobądźciemieczów,jeślimacieserca.Grzegorzu,pamiętajoswoimpchnięciu.
+SAMSONDobądźciemieczów,jeślimaciesercaGrzegorzu,pamiętajoswoimpchnięciu.
 
 
 BENWOLIO
@@ -281,31 +277,31 @@ Odstąpcie,głupcy;schowajciemieczedopochew.Saminiewiecie,corobicie.
 TYBALT
 
 Cóżto?krzyżujeszorężzparobkami?
-Domnie,Benwolio!pilnujswegożycia.
+mnie,Benwolio!pilnujswegożycia.
 
 
 BENWOLIO
 
-Przywracamtylkopokój.Włóżmiecznazad
+Przywracampokój.Włóżmiecznazad
 Albowrazzemnąrozdzielnimtychludzi.
 
 
 TYBALT
 
 Zgołymorężempokój?Nienawidzę
-wyrazu,takjaknienawidzę
+Tegowyrazu,takjaknienawidzę
 Szatana,wszystkichMontekichiciebie.
 Brońsię,nikczemnytchórzu.
 
-/Walczą.Nadchodziprzyjaciółobupartiiimieszająsiędozwady;potemwchodząmieszczaniezpałkami./
+/Walczą.Nadchodzikilkuprzyjaciółobuimieszająsiędozwady;wkrótcepotemwchodząmieszczaniezpałkami./
 
 
-PIERWSZYOBYWATEL
+OBYWATEL
 
 Hola!berdyszów!pałek!Dalejponich!
-PreczzMontekimi,preczzKapuletami!
+PreczzMontekimi,preczz!
 
-/WchodząKapuletiPaniKapulet/
+/WchodząKapuletiPani/
 
 
 KAPULET
@@ -316,10 +312,12 @@ Mójmiecz!hej!
 
 PANIKAPULET
 
-kulę;cocizmiecza?
+Raczejkulę;cocizmiecza?
 
 
-KAPULETMiecz,mówię!StaryMontekinadchodzi.
+KAPULET
+
+Miecz,mówię!StaryMontekinadchodzi.
 Iszydnieswojąklingąmiurąga.
 
 /WchodząMontekiiPaniMonteki./
@@ -329,66 +327,66 @@ MONTEKI
 
 Ha!nędznyKapulecie!
 
-/dożony/
+dożony/
 
                         Puśćmnie,pani.
 
 
 PANIMONTEKI
 
-Niepuszczęciękrok,gdywrógprzedtobą.
+Niepuszczęcięnakrok,gdywrógprzedtobą.
 
 /WchodziKsiążęzorszakiem./
 
 
-KSIĄŻĘ
 
-Zapamiętalipoddani,
-Bezcześcicielebratniejstali!Cóżto,
+
+Zapamiętaliniesfornipoddani,
+Bezcześcicielebratniejstali!Cóżto
 Czyniesłyszycie?Ludzieczyzwierzęta,
-Cowściekłychswoichgniewówgasicie
-Wwłasnychżyłswoichźródlepurpurowym;
-karątorturwypuśćcienatychmiast
-Zskrwawionychtębrońbuntowniczą
+Cowściekłychswoichgniewówżargasicie
+Wwłasnychżyłswoichpurpurowym;
+Podkarątorturwypuśćcienatychmiast
+Zdłoniskrwawionychtębroń
 Iposłuchajcietego,coniniejszym
-Waszksiążępostanawia.
+Waszrozjątrzonyksiążępostanawia.
 Domowestarcia,zmarnychsłówzrodzone
 Przezwas,MontekiorazKapulecie,
 Trzykroćjużspokójmiastazakłóciły,
 Takżepoważniwiekiemizasługą
 Obywatelewerońscymusieli
 Porzucićswojewygodneprzybory
-Iwstaredłoniestareująćmiecze,
+Istaredłoniestareująćmiecze,
 Byzardzewiałymostrzemzardzewiałe
-przecinać.Jeżeli
+Niechęciwaszeprzecinać.Jeżeli
 Wznieciciekiedyśwaśńpodobną,
 Zamętpokojuopłacicieżyciem.
 Aterazwszyscyustąpcieniezwłocznie.
-TyKapulecie,pójdzieszzemnąrazem;
-Tyzaś,Monteki,przyjdzieszpopołudniu
+Ty,Kapulecie,pójdzieszzemnąrazem;
+TyzaśMonteki,przyjdzieszpołudniu
 Naratusz,gdziecidokładniewtymwzględzie
-Dalszamawolaoznajmionabędzie.
+Dalszawolaoznajmionabędzie.
 Jeszczerazwzywamwszystkichtuobecnych
-Podkarąśmierci,abysięrozeszli.
+Podkarąśmierciabyrozeszli.
 
-/Książęzorszakiemwychodzi.Kapulet,PaniKapulet,Tybalt,obywateleisłudzy./
+/Książęzorszakiemwychodzi.PodobnieżKapulet,PaniKapulet,Tybalt,obywateleisłudzy./
 
 
 MONTEKI
 
-Ktowszcząłnowązwadę?Mów,synowcze,
-Byłtuwtedy,gdysięto?
+Ktowszcząłtęnowązwadę?Mów,synowcze,
+Byłżeśtuwtedy,gdysiętozaczęło?
 
 
 BENWOLIO
 
-Nieprzyjacielanaszego
+Nieprzyjacielanaszegopachołcy
 Iwasijużsiębili,kiedymnadszedł;
 Dobyłembroni,abyichrozdzielić:
-WtemwpadłszalonyTybaltzgołymmieczem,
+WtemwpadłszalonyTybaltzgołymmieczem
 Ihardezionącmiwuszywyzwanie,
-Jąłsięwywijaćnimisiecpowietrze
-Któreświszczałotylkoszydzącz
+Jąłsięwywijaćnimisiecpowietrze,
+Któreświszczałotylkoszydzączmarnych
 Jegozamachów.Gdyśmytakzesobą
 Cięciaipchnięciazamieniali,zbiegłsię
 Większytłumludzi;zobustronwalczono,
@@ -403,20 +401,20 @@ Jakżesięcieszę,żeniebyłwtymstarciu.
 
 BENWOLIO
 
-Godzinąpierwej,nimwspaniałesłońce
+Godzinąpierwejnimwspaniałesłońce
 Wzłotychsięoknachwschoduukazało,
 Troskiwygnałymięzdalaoddomu
 Wsykomorowyówgaj,cosięciągnie
 Kupołudniowiodnaszegomiasta.
-Tam,jużtakrano,synwaszsięprzechadzał.
-Ledwiemgoujrzał,kuniemu;
-Leczon,spostrzegłszymięskryłsięnatychmiast
-Iwnajciemniejszejukryłsię.
+Tam,takrano,synwaszsięprzechadzał.
+Ledwiemgoujrzał,pobiegłemkuniemu;
+Leczon,spostrzegłszymię,skryłsięnatychmiast
+Inajciemniejszejukryłsięgęstwinie.
 Pociągtenjegodoodosobnienia
 Mierzącmymwłasnym(sercenaszebowiem
 Jestnajczynniejsze,kiedyśmysamotni),
-Niemuwjegodumaniach
-Iwinnąstronęsięudałem,chętnie
+Nieprzeszkadzałemmuwjegodumaniach
+Iwinnąstronęsięudałemchętnie
 Stroniącodtego,coradmnieunikał.
 
 
@@ -425,20 +423,20 @@ MONTEKI
 Nierazoświciejużgotamwidziano
 Łzamiporannąmnożącegorosę,
 Achmury—swegoobliczachmurami,
-Aliściledwonajdalszymwschodzie
+Aliściledwonanajdalszymwschodzie
 WesołesłońcesprzedłożaAurory
 Zaczęłościągaćcienistąkotarę,
-On,uciekającodświatła,
-tchuzamykałsięwswoimpokoju;
+On,uciekającodwidoku,
+Cotchuzamykałsięwswoimpokoju;
 Zasłaniałoknaprzedjasnymdniablaskiem
-Isztucznąsobieciemnicęutwarzał.
+sztucznąsobieutwarzał.
 Wczarnebezdrożaduszajegozajdzie,
 Jeślisięnatolekarstwonieznajdzie.
 
 
 BENWOLIO
 
-Szanownystryju,znaszżepowódtego?
+Szanownystryju,znasz–żepowódtego?
 
 
 MONTEKI
@@ -450,15 +448,15 @@ BENWOLIO
 
 Wybadywałżeśgojakimsposobem?MONTEKI
 
-Wybadywałemisam,iprzezdrugich
+Wybadywałemisam,iprzezdrugich,
 Leczonjedynypowiernikswychsmutków.
-Takimjestwierny,takzamkniętywsobie,
+Takimwierny,takzamkniętywsobie,
 Odotwartościwszelkiejtakdaleki
 Jakpączekkwiatu,cogorobakgryzie,
-Nimświatuwonnykielichroztoczył
+Nimświatuwonnyswójkielichroztoczył
 Ipełnośćswojąrozwinąłprzedsłońcem.
-Gdybyśmymoglidojśćtychtroskzarodka
-Niezbrakłobyzaradczegośrodka.
+Gdybyśmymoglidojśćtychtroskzarodka,
+Niezbrakłobynamzaradczegośrodka.
 
 /Romeoukazujesięwgłębi./
 
@@ -471,8 +469,8 @@ Wyrwęmuzpiersicierpieniatajone.
 
 MONTEKI
 
-Obyśwtej,conamsercerani,
-Mógłbyćszczęśliwszymodnas!Pójdźmy,pani
+Obyśwtejsprawie,conamsercerani,
+Mógłbyćszczęśliwszymnas!Pójdźmy,pani.
 
 /WychodząMontekiiPaniMonteki./
 
@@ -484,7 +482,7 @@ Dzieńdobry,bracie.
 
 ROMEO
 
-                        –żniepołudnie?
+                        Jeszcze–żniepołudnie?
 
 
 BENWOLIO
@@ -492,16 +490,14 @@ BENWOLIO
 Dziewiątabiładopiero.
 
 
-ROMEO
-
-                        Jaknudnie
-Wlokąsięchwile.Moi–żtorodzice
+ROMEOJaknudnie
+Wlokąsię.Moi–żtorodzice
 Takspieszniewtamtązboczyliulicę?
 
 
 BENWOLIO
 
-Takjest.Leczcóżtakchwiletwojedłuży?
+Takjest.Leczcóżchwiletwojedłuży?
 
 
 ROMEO
@@ -511,7 +507,7 @@ Nieposiadanietego,cojeskraca.
 
 BENWOLIO
 
-Miłość
+Miłośćwięc?
 
 
 ROMEO
@@ -531,19 +527,19 @@ Brakjejtam,skądbympragnąłwzajemności.
 
 BENWOLIO
 
-Niestety!Czemuż,zdającsięniebianką,
-Miłośćjestwgruncietaktyranką?
+!Czemuż,zdającsięniebianką,
+Miłośćjestwgruncietaksrogątyranką?
 
 
 ROMEO
 
 Niestety!Czemuż,zzasłonąnaskroni,
 Miłośćnaoślepzawszecelswójgoni!
-Gdzieżdziśjeść?Ach!Byłtupodobno
+Gdzieżdziśjeśćbędziem?Ach!Byłtupodobno
 Jakiśspór?Niemówmionim,wiemwszystko.
 Wgrzetunienawiśćwielka,leczimiłość.
-!wysprzecznościniepojętedziwa!
-Szorstkamiłości!nienawiścitkliwa!
+O!wysprzecznościniepojętedziwa!
+Szorstkamiłości!nienawiścitkliwa
 Cośnarodzonezniczego!Pieszczoto
 Odpychająca!Poważnapustoto!
 Szpetnychaosiewdzięków!Ciężkipuchu!
@@ -560,7 +556,7 @@ BENWOLIO
 
 ROMEO
 
-Nadczym,poczciwaduszo?
+Nad,poczciwaduszo?
 
 
 BENWOLIO
@@ -574,15 +570,15 @@ ROMEO
                         Awięcstrzała
 Miłościnawetprzezodbitkędziała?
 Dośćmijużciężyłmójsmutek,tyjego
-Brzemiępowiększaszprzewyżkątwojego;
-Współczucietwojenadmoimcierpieniem
+Brzemiępowiększaszprzewyżkątwojego
+Współczucietwojenadcierpieniem
 Nieulgą,alenowymjestkamieniem
-Dlamegoserca.,przyjacielu,
+Dlamegoserca.Miłość,przyjacielu,
 Todym,cozparąwestchnieńsięunosi;
 Tożar,cowokuszczęśliwegopłonie;
 Morzełez,wktórymnieszczęśliwytonie.
-Czymżejestwięcej?Istnymamalgamem,
-Żółciątrawiącąizbawczymbalsamem.
+Czymżejestwięcej?amalgamem
+trawiącąizbawczymbalsamem.
 Bądźzdrów.
 
 /chceodejść/
@@ -608,21 +604,21 @@ Kogóżtokochasz?mów!
 ROMEO
 
                         Przestańmiędręczyć.
-–żewrazjęczyćimówić?
+Mamżewrazjęczyćimówić?
 
 
 BENWOLIO
 
                         Niejęczyć,
 Tylkomikluczdaćdotegoproblemu,
-Kogóżtokochasz?.
+Kogóżtokochasz?Powiedz.
 
 
 ROMEO
 
                         Każchoremu
 Pisaćtestament:będzie–żtowezwanie
-Dobredlatego,ktojestwtakzłymstanie?
+tego,ktojestwtakzłymstanie?
 Awięc,kobietękocham.
 
 
@@ -632,28 +628,26 @@ BENWOLIO
 Gdymtopomyślał,nimeśmipowierzył.
 
 
-ROMEO
-
-Bieglecelujesz.Ita,którąkocham,
+ROMEOBieglecelujesz.Ita,którąkocham,
 Jestpiękna.
 
 
 BENWOLIO
 
-                        Wpięknyceltrafić.
+                        Wpięknyceltrafićnajłatwiej.
 
 
 ROMEO
 
 Awłaśnieśchybił.Niczymtukołczany
-;onamanaturę;
+Kupida;onamanaturęDiany
 Podtwardązbrojąwstydliwościswojej
-miłościwcalesięnieboi;
+Grotówmiłościwcalesięnieboi;
 Szydziznawałuzaklęćoblężniczych;
 Odpieraszturmyspojrzeńnapastniczych;
-jejzłotawszechwładztwoniezjedna.
+Nawetjejzłotawszechwładztwoniezjedna.
 Bogatawwdzięki,wtymjedyniebiedna,
-kiedyumrze,dogrobuzniązstąpi
+Żekiedyumrze,dogrobuzniązstąpi
 Całebogactwo,któregotakskąpi.
 
 
@@ -668,8 +662,8 @@ Takjest;iskąpstwotojestmarnotrawstwem,
 Bopiękność,którąwłasnasrogośćstrawia,
 Całąpotomnośćpięknościpozbawia.
 Zbytonapiękna,zbytmądrazarazem;
-Zbytmądrzepiękna:stądistnymjestgłazem.
-Przysięgłanigdyniekochaćidzięki
+Zbytmądrzepiękna:istnymjestgłazem.
+Przysięgłanigdyniei
 Temuskazanym-wiecznecierpiećmęki.
 
 
@@ -680,7 +674,7 @@ Jestnatorada:przestańmyślećoniej.
 
 ROMEO
 
-Doradź–żetakże,jakimsposobem
+–żetakże,jakimbymsposobem
 Mógłprzestaćmyśleć.
 
 
